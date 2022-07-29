@@ -2,15 +2,15 @@
 title: Contact
 layout: contact
 description: Contact
+lang: English
+ref: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## Summer 2022 hours
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+* August 1-22: out of office
+* Starting August 23: Central European Time office hours
+
+## Currently accepting new projects for Spring 2023
+
+[Email me](mailto:hello@tgconsulting.ca) for any enquiries, [or use this link to schedule a call](https://doodle.com/bp/thomasguignard/book-me). I would love to know more about your project!

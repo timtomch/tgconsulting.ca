@@ -1,12 +1,18 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/timtomch",
     "image": "images/social/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/timtomch",
     "image": "images/social/twitter.svg"
   }
+  ,
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/thomasguignard/",
+      "image": "images/social/linkedin.svg"
+    }
 ]

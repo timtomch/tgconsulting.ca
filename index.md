@@ -1,13 +1,18 @@
 ---
-title: Jekyll Serif Theme
+title: TG Consulting
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Thomas Guignard - Library technology and open data consultant
+intro_image: "/images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
+lang: English
+ref: index
 ---
 
-# Serif - A Jekyll Business Theme.
+# Thomas Guignard
+### Library technology and open data consultant
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+You bring your next challenge.
+
+I bring over 15 years of experience helping libraries and cultural actors successfully manage technology projects.
