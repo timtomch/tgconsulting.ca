@@ -1,5 +1,6 @@
 [
   {
+    "lang": "English",
     "title": "Project Management",
     "description": "I blend robust methods and empathy to help teams accomplish great things.",
     "image": {
@@ -9,6 +10,7 @@
     }
   },
   {
+    "lang": "English",
     "title": "Data migration & cleanup",
     "description": "Migrating to a new system? I use powerful tools to painlessly bring over your metadata.",
     "image": {
@@ -18,6 +20,7 @@
     }
   },
   {
+    "lang": "English",
     "title": "Systems Integration",
     "description": "Did you say API? Like humans, systems work best when they work together. I help them speak the same language.",
     "image": {
@@ -27,6 +30,17 @@
     }
   },
   {
+    "lang": "English",
+    "title": "Business needs analysis",
+    "description": "Keep your organization relevant to current user needs and opportunities.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "English",
     "title": "Technology Training",
     "description": "Empower your team to automate repetitive tasks and free up their valuable time. I offer bespoke training sessions on data manipulation and cleanup tools such as OpenRefine, data management, and introduction to computer programming.",
     "image": {

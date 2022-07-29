@@ -14,11 +14,11 @@ home:
   limit_services: 6 
 
 collections:
-  services:
+  projects:
     output: true
     sort_by: weight
   team:
-    output: false
+      output: false
 
 defaults:
   - scope:

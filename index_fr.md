@@ -2,7 +2,7 @@
 title: TG Consulting
 layout: home
 description: Thomas Guignard - Consultant en technologies de bibliothèque et données ouvertes
-intro_image: "/images/illustrations/pointing.svg"
+intro_image: "/images/illustrations/sheridan-library-bytguignard.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
@@ -11,7 +11,7 @@ ref: index
 ---
 
 # Thomas Guignard
-### Consultant en technologies de bibliothèque et données ouvertes
+**Consultant en technologies de bibliothèque et données ouvertes**
 
 Vous avez un nouveau défi?
 
