@@ -25,7 +25,12 @@ bodyClass: "page-home"
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-      <h2>Services provided</h2>
+    {% case page.lang %}
+      {% when "English" %}
+         <h2>My expertise at your service</h2>
+      {% when "Français" %}
+         <h2>Mon expertise à votre service</h2>
+    {% endcase %}
     <div class="row justify-content-center">
       {% assign services=site.data.features | where:"lang", page.lang %}
       {% for service in services%}
@@ -50,7 +55,12 @@ bodyClass: "page-home"
 
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
-      <h2>Recent projects</h2>
+      {% case page.lang %}
+        {% when "English" %}
+           <h2>Recent projects</h2>
+        {% when "Français" %}
+           <h2>Projets récents</h2>
+      {% endcase %}
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% assign projects=site.projects | where:"lang", page.lang %}
@@ -69,7 +79,12 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "projects" | relative_url }}">View more projects</a>
+            {% case page.lang %}
+              {% when "English" %}
+                 <a class="button button-primary" href="{{ "projects" | relative_url }}">View more projects</a>
+              {% when "Français" %}
+                 <a class="button button-primary" href="{{ "projets" | relative_url }}">Voir plus de projets</a>
+            {% endcase %}
       </div>
     </div>
   </div>

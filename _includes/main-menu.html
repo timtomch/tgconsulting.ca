@@ -14,5 +14,11 @@
         <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       </li>
     {% endfor %}
+    {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
+    {% for project in projects %}
+      <li>
+        <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
+      </li>
+    {% endfor %}
   </ul>
 </div>
