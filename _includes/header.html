@@ -2,9 +2,9 @@
   <div class="container">
     {% case page.lang %}
       {% when "English" %}
-         {% assign logourl = site.baseurl %}
+         {% assign logourl = site.url %}
       {% when "Français" %}
-         {% assign logourl = site.baseurl | append: "index_fr/" %}
+         {% assign logourl = site.url | append: "index_fr/" %}
     {% endcase %}
     <div class="logo">
       <a href="{{ logourl }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
