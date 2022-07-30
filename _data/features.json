@@ -4,7 +4,17 @@
     "title": "Project Management",
     "description": "I blend robust methods and empathy to help teams accomplish great things.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun-end-goal-1885956.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Gestion de projet",
+    "description": "J'allie méthodes éprouvées et empathie pour mener votre équipe de projet au succès.",
+    "image": {
+      "url": "images/features/noun-end-goal-1885956.svg",
       "width": 80,
       "height": 80
     }
@@ -14,7 +24,17 @@
     "title": "Data migration & cleanup",
     "description": "Migrating to a new system? I use powerful tools to painlessly bring over your metadata.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun-development-1849605.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Migration et nettoyage de données",
+    "description": "Vous changez de système? J'utilise des outils performants pour migrer vos métadonnées sans encombre.",
+    "image": {
+      "url": "images/features/noun-development-1849605.svg",
       "width": 80,
       "height": 80
     }
@@ -24,7 +44,17 @@
     "title": "Systems Integration",
     "description": "Did you say API? Like humans, systems work best when they work together. I help them speak the same language.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-cloud-computing-1885811.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Intégration de systèmes",
+    "description": "Vous avez dit API? Comme les humains, les systèmes fonctionnent mieux quand ils communiquent bien. Je les aide à parler la même langue.",
+    "image": {
+      "url": "images/features/noun-cloud-computing-1885811.svg",
       "width": 80,
       "height": 80
     }
@@ -32,9 +62,19 @@
   {
     "lang": "English",
     "title": "Business needs analysis",
-    "description": "Keep your organization relevant to current user needs and opportunities.",
+    "description": "Stay relevant and let me identify opportunities to grow your services and meet your users' needs.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-the-process-1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Analyse de besoins et plans d'affaire",
+    "description": "Restez à la page et laissez-moi vous aider à identifier les opportunités d'améliorer vos services et répondre aux besoins de vos usagers.",
+    "image": {
+      "url": "images/features/noun-the-process-1885341.svg",
       "width": 80,
       "height": 80
     }
@@ -44,7 +84,37 @@
     "title": "Technology Training",
     "description": "Empower your team to automate repetitive tasks and free up their valuable time. I offer bespoke training sessions on data manipulation and cleanup tools such as OpenRefine, data management, and introduction to computer programming.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-training-1849869.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Formation techniques",
+    "description": "Donnez à votre équipe les outils pour automatiser leurs tâches répétitives et gagner du temps. J'offre des formations personnalisées en manipulation et gestion des données et introduction à la programmation.",
+    "image": {
+      "url": "images/features/noun-training-1849869.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "English",
+    "title": "Library photography",
+    "description": "I have been documenting library architecture around the world for more than a decade. Hire me to take a portrait of your library!",
+    "image": {
+      "url": "images/features/noun-video-production-1885345.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Photographie de bibliothèques",
+    "description": "Je parcours le monde pour documenter l'architecture des bibliothèques. Laissez-moi faire le portrait de votre institution!",
+    "image": {
+      "url": "images/features/noun-video-production-1885345.svg",
       "width": 80,
       "height": 80
     }

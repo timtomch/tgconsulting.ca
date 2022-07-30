@@ -1,12 +1,27 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Projects"
+    lang: "English"
+    url: "/projects/"
+    weight: 2
+  - name: "Projets"
+    lang: "Français"
+    url: "/projets/"
     weight: 2
   - name: "About"
+    lang: "English"
     url: "/about/"
     weight: 3
+  - name: "À propos"
+    lang: "Français"
+    url: "/apropos/"
+    weight: 3
   - name: "Contact"
+    lang: "English"
     url: "/contact/"
+    weight: 4
+  - name: "Contact"
+    lang: "Français"
+    url: "/contact_fr/"
     weight: 4
 
 footer:
