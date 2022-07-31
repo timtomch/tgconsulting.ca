@@ -22,4 +22,4 @@ to collaborate with arbim IT for this project.
 
 ### Collaboration
 
-This project was done in collaboration with [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/) (Suisse).
+This project was done in collaboration with [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/) (Switzerland).
