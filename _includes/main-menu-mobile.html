@@ -1,5 +1,5 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
-  {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
+  {% assign mainmenu = site.data.menus.main | where:"lang", page.lang | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
@@ -7,4 +7,22 @@
     </li>
     {% endfor %}
   </ul>
+      <ul class="lang-selector">
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for menupage in pages %}
+        {% if menupage.lang != page.lang %}
+            <li>
+              <a href="{{ menupage.url }}" class="{{ menupage.lang }}">{{ menupage.lang }}</a>
+            </li>
+        {% endif %}
+      {% endfor %}
+      {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
+      {% for project in projects %}
+          {% if project.lang != page.lang %}
+            <li>
+                <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
+            </li>
+          {% endif %}
+      {% endfor %}
+    </ul>
 </div>

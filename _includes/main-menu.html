@@ -9,16 +9,20 @@
     </ul>
     <ul class="lang-selector">
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-      <li>
-        <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-      </li>
+    {% for menupage in pages %}
+      {% if menupage.lang != page.lang %}
+          <li>
+            <a href="{{ menupage.url }}" class="{{ menupage.lang }}">{{ menupage.lang }}</a>
+          </li>
+      {% endif %}
     {% endfor %}
     {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
     {% for project in projects %}
-      <li>
-        <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
-      </li>
+        {% if project.lang != page.lang %}
+          <li>
+              <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
+          </li>
+        {% endif %}
     {% endfor %}
   </ul>
 </div>

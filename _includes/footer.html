@@ -5,11 +5,27 @@
         <div class="footer-inner">
           <h2 class="footer-title">{{site.title}}</h2>
           <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% assign footermenu = site.data.menus.footer | where:"lang", page.lang | sort: 'weight'  %}
             {% for item in footermenu %}
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
+            {% endfor %}
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for menupage in pages %}
+              {% if menupage.lang != page.lang %}
+                  <li>
+                    <a href="{{ menupage.url }}" class="{{ menupage.lang }}">{{ menupage.lang }}</a>
+                  </li>
+              {% endif %}
+            {% endfor %}
+            {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
+            {% for project in projects %}
+                {% if project.lang != page.lang %}
+                  <li>
+                      <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
+                  </li>
+                {% endif %}
             {% endfor %}
           </ul>
         </div>

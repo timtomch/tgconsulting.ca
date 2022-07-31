@@ -26,8 +26,18 @@ main:
 
 footer:
   - name: "Home"
+    lang: "English"
     url: "/"
     weight: 1
+  - name: "Accueil"
+    lang: "Français"
+    url: "/index_fr/"
+    weight: 1
   - name: "Contact"
+    lang: "English"
     url: "/contact/"
+    weight: 2
+  - name: "Contact"
+    lang: "Français"
+    url: "/contact_fr/"
     weight: 2
