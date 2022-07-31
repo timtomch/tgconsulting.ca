@@ -2,6 +2,9 @@
 title: About Thomas Guignard
 layout: page
 description: About Thomas Guignard
+intro_image: "/images/team/thomasguignard-portrait-by_vbaeriswyl.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 bodyClass: page-about
 lang: English
 ref: about
