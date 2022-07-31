@@ -18,3 +18,5 @@ TG Consulting logo by [La Ménagerie.](http://lamenagerie.ch/)
 Library photos: [Sheridan college](https://www.flickr.com/photos/timtom/45623819352/) 
 and [Georgian college](https://www.flickr.com/photos/timtom/40937671973/),
 CC-BY-SA Thomas Guignard.
+
+Portrait photo by [Valérie Baeriswyl](https://valeriebaeriswyl.com/).

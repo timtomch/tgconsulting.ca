@@ -14,3 +14,9 @@ Le support multilingue est basé sur le travail de [Sylvain Durand](https://sylv
 Icône [LinkedIn](https://icons8.com/icon/8808/linkedin) par [Icons8](https://icons8.com).
 
 Logo TG Consulting par [La Ménagerie.](http://lamenagerie.ch/)
+
+Images de bibliothèques: [Sheridan college](https://www.flickr.com/photos/timtom/45623819352/) 
+et [Georgian college](https://www.flickr.com/photos/timtom/40937671973/),
+CC-BY-SA Thomas Guignard.
+
+Photo portrait par [Valérie Baeriswyl](https://valeriebaeriswyl.com/).
