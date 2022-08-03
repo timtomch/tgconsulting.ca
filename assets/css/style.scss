@@ -79,3 +79,29 @@ ul.lang-selector > li{
   height: 50px;
   width: auto;
 }
+
+.project-details h3 {
+    font-family: $font-family-heading;
+}
+
+.project-details img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.project-details div {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.project-details ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+img.client-logo{
+    height: 100px;
+    width: auto;
+    margin:0;
+    padding:0;
+}

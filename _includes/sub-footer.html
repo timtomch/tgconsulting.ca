@@ -6,9 +6,12 @@
           {% if site.data.social %}
             {% include social.html %}
           {% endif %}
-          {% if site.data.seo.copyright_text %}
-          <div class="copyright">{{ site.data.seo.copyright_text }}</div>
-          {% endif %}
+          {% case page.lang %}
+            {% when "English" %}
+               <div class="copyright"><a href="/impressum/">About this site</a></div>
+            {% when "Français" %}
+               <div class="copyright"><a href="/impressum_fr/">À propos de ce site</a></div>
+          {% endcase %}
         </div>
       </div>
     </div>

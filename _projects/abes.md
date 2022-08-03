@@ -3,6 +3,16 @@ title: "Évolution de sudoc.fr"
 date: 2022-07-29
 weight: 1
 descr: Participation à une analyse de marché pour identifier les solutions techniques pertinentes pour le portail de découverte du catalogue collectif de l'enseignement supérieur français.
+project_image: "/images/projects/sudoc-screenshot.png"
+year: 2022
+client: Agence bibliographique de l’enseignement supérieur Abes
+client_url: "https://abes.fr/"
+client_logo: "/images/clients/logo-abes-base.svg"
+keywords: 
+ - Analyse de marché
+ - Stratégie logicielle
+ - Portail découverte
+ - Catalogue collectif
 lang: Français
 ref: abes
 ---
@@ -11,10 +21,6 @@ ref: abes
 
 Souhaitant renouveler l'interface web du Sudoc, l'Abes a mandaté au printemps 2022 l'agence [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/) pour effectuer un tour d'horizon des solutions techniques envisageables
 pour son évolution. J'ai collaboré avec arbim IT dans le cadre de cette étude.
-
-### Client
-
-[Agence bibliographique de l’enseignement supérieur Abes](https://abes.fr/) (France)
 
 ### Collaboration
 

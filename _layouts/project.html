@@ -11,5 +11,37 @@ bodyClass: "page-project"
         <div class="content">{{content}}</div>
       </div>
     </div>
+    <div class="col-12 col-md-4 project-details">
+        {% if page.project_image %}
+            <img src="{{ page.project_image }}" alt="{{page.descr}}"/>
+        {% endif %}
+        {% if page.year %}
+        {% case page.lang %}
+          {% when "English" %}
+             <h3>Year</h3>
+          {% when "Français" %}
+             <h3>Année</h3>
+        {% endcase %}
+        <div>{{ page.year }}</div>
+        {% endif %}
+        {% if page.client %}
+        <h3>Client</h3>
+        <div><a href="{{ page.client_url }}"><img class="client-logo" src="{{ page.client_logo}}" alt="{{ page.client }}"/></a>
+        </div>
+        {% endif %}
+        {% if page.keywords %}
+        {% case page.lang %}
+          {% when "English" %}
+             <h3>Keywords</h3>
+          {% when "Français" %}
+             <h3>Mots-clés</h3>
+        {% endcase %}
+        <ul>
+            {% for keyword in page.keywords %}
+            <li>{{ keyword }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
   </div>
 </div>

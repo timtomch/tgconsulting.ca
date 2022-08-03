@@ -3,6 +3,16 @@ title: "Evolution of the Sudoc portal"
 date: 2022-07-29
 weight: 1
 descr: Participation in a market analysis to identify pertinent technical solutions for the French higher education union catalogue discovery interface.
+project_image: "/images/projects/sudoc-screenshot.png"
+year: 2022
+client: Agence bibliographique de l’enseignement supérieur Abes
+client_url: "https://abes.fr/"
+client_logo: "/images/clients/logo-abes-base.svg"
+keywords: 
+ - Market analysis
+ - Software strategy
+ - Discovery portal
+ - Union catalogue
 lang: English
 ref: abes
 ---
@@ -15,10 +25,6 @@ library professionals alike.
 Aiming to modernize the Sudoc's web interface, Abes mandated [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/) 
 in the Spring of 2022 to do a market analysis and identify pertinent technical solutions for its evolution. I had the opportunity
 to collaborate with arbim IT for this project.
-
-### Client
-
-[Agence bibliographique de l’enseignement supérieur Abes](https://abes.fr/) (France)
 
 ### Collaboration
 
