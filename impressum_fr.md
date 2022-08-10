@@ -15,8 +15,8 @@ Icône [LinkedIn](https://icons8.com/icon/8808/linkedin) par [Icons8](https://ic
 
 Logo TG Consulting par [La Ménagerie.](http://lamenagerie.ch/)
 
-Images de bibliothèques: [Sheridan college](https://www.flickr.com/photos/timtom/45623819352/) 
-et [Georgian college](https://www.flickr.com/photos/timtom/40937671973/),
-CC-BY-SA Thomas Guignard.
+Les images de bibliothèques sont toutes CC-BY-SA Thomas Guignard.
+<a href="https://thomasguignard.photo/libraries">Visitez mon portfolio</a> pour plus de détails au sujet de mon projet 
+photographique sur l'architecture des bibliothèques.
 
 Photo portrait par [Valérie Baeriswyl](https://valeriebaeriswyl.com/).

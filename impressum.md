@@ -15,8 +15,7 @@ Multilingual conversion based on the work by [Sylvain Durand](https://sylvaindur
 
 TG Consulting logo by [La Ménagerie.](http://lamenagerie.ch/)
 
-Library photos: [Sheridan college](https://www.flickr.com/photos/timtom/45623819352/) 
-and [Georgian college](https://www.flickr.com/photos/timtom/40937671973/),
-CC-BY-SA Thomas Guignard.
+Library photos are all CC-BY-SA Thomas Guignard. See more about my work documenting library architecture 
+<a href="https://thomasguignard.photo/libraries">on my photography portfolio</a>.
 
 Portrait photo by [Valérie Baeriswyl](https://valeriebaeriswyl.com/).

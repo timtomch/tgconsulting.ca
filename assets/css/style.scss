@@ -76,7 +76,7 @@ ul.lang-selector > li{
 }
 
 .logo-mobile img {
-  height: 50px;
+  height: 70px;
   width: auto;
 }
 
@@ -86,12 +86,20 @@ ul.lang-selector > li{
 
 .project-details img {
     width: 100%;
-    margin-bottom: 20px;
 }
 
-.project-details div {
+.project-details p {
     margin-left: 10px;
     margin-bottom: 20px;
+    align:middle;
+}
+
+.project-details .caption {
+    font-size: 0.6em;
+    margin-left:0px;
+    margin-bottom: 20px;
+    color: #808080;
+    text-align:right;
 }
 
 .project-details ul {

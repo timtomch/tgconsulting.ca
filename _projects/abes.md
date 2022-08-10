@@ -3,7 +3,8 @@ title: "Évolution de sudoc.fr"
 date: 2022-07-29
 weight: 1
 descr: Participation à une analyse de marché pour identifier les solutions techniques pertinentes pour le portail de découverte du catalogue collectif de l'enseignement supérieur français.
-project_image: "/images/projects/sudoc-screenshot.png"
+project_image: "/images/illustrations/bsb-learningcenter-bytguignard.jpg"
+project_image_caption: "BSB Learning Center à Dijon, France"
 year: 2022
 client: Agence bibliographique de l’enseignement supérieur Abes
 client_url: "https://abes.fr/"
