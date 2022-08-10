@@ -8,7 +8,7 @@ project_image_caption: ""
 year: 2020 - 2022
 client: Atlantic Publishers Marketing Association APMA
 client_url: "https://atlanticpublishers.ca/"
-client_logo: 
+client_logo: "/images/clients/APMA-logo-long.gif"
 keywords: 
  - Project management
  - Stakeholder liaison

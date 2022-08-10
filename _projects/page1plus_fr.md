@@ -5,7 +5,7 @@ weight: 1
 descr: Sélection, implémentation et soutien à la migration de données pour la mise en place du logiciel ExLibris Alma dans 18 bibliothèques collégiales en Ontario.
 project_image: "/images/illustrations/georgian-library-2-bytguignard.jpg"
 project_image_caption: "Bibliothèque du Georgian College à Barrie, Ontario"
-year: 2018 - 2022
+year: Depuis 2018
 client: Ontario Colleges Library Service OCLS
 client_url: "https://ocls.ca"
 client_logo: 

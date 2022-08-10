@@ -20,7 +20,7 @@ bodyClass: "page-projects"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% assign projects=site.projects | where:"lang", page.lang %}
+    {% assign projects=site.projects | where:"lang", page.lang | sort: 'weight' %}
     {% for project in projects %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">

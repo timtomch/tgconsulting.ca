@@ -63,7 +63,7 @@ bodyClass: "page-home"
       {% endcase %}
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% assign projects=site.projects | where:"lang", page.lang %}
+      {% assign projects=site.projects | where:"lang", page.lang | sort: 'weight'  %}
       {% for project in projects limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">

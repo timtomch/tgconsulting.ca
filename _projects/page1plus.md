@@ -5,7 +5,7 @@ weight: 1
 descr: Procurement, implementation and data migration support for ExLibris Alma as a next generation library services platform for 18 college libraries in Ontario.
 project_image: "/images/illustrations/georgian-library-2-bytguignard.jpg"
 project_image_caption: "Georgian College Library in Barrie, Ontario"
-year: 2018 - 2022
+year: Since 2018
 client: Ontario Colleges Library Service OCLS
 client_url: "https://ocls.ca"
 client_logo: 
