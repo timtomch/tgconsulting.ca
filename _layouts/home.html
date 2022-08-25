@@ -65,6 +65,7 @@ bodyClass: "page-home"
       {% assign limit = site.home.limit_services | default: 6 %}
       {% assign projects=site.projects | where:"lang", page.lang | sort: 'weight'  %}
       {% for project in projects limit: limit %}
+          {% unless project.secret == true %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
@@ -75,6 +76,7 @@ bodyClass: "page-home"
           </div>
         </div>
       </div>
+          {% endunless %}
       {% endfor %}
     </div>
     <div class="row justify-content-center">

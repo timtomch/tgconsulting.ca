@@ -22,6 +22,7 @@ bodyClass: "page-projects"
   <div class="row">
     {% assign projects=site.projects | where:"lang", page.lang | sort: 'weight' %}
     {% for project in projects %}
+        {% unless project.secret == true %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-content">
@@ -32,6 +33,7 @@ bodyClass: "page-projects"
         </div>
       </div>
     </div>
+        {% endunless %}
     {% endfor %}
   </div>
 </div>
