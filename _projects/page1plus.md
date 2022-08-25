@@ -8,7 +8,7 @@ project_image_caption: "Georgian College Library in Barrie, Ontario"
 year: Since 2018
 client: Ontario Colleges Library Service OCLS
 client_url: "https://ocls.ca"
-client_logo: 
+client_logo: "/images/clients/oclsLogonoback.png"
 keywords: 
  - Competitive procurement
  - Project management

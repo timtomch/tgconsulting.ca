@@ -22,8 +22,9 @@ bodyClass: "page-project"
         {% if page.client_logo%}
             <a href="{{ page.client_url }}"><img class="client-logo" src="{{ page.client_logo}}" alt="{{ page.client }}"/></a>
         {% else %}
-        {% endif %}
             <p><a href="{{ page.client_url }}">{{ page.client }}</a></p>
+        {% endif %}
+            
         
         
         {% endif %}

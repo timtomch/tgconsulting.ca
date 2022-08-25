@@ -8,7 +8,7 @@ project_image_caption: "Bibliothèque du Georgian College à Barrie, Ontario"
 year: Depuis 2018
 client: Ontario Colleges Library Service OCLS
 client_url: "https://ocls.ca"
-client_logo: 
+client_logo: "/images/clients/oclsLogonoback.png"
 keywords: 
  - Appel d'offre
  - Planification financière
