@@ -12,7 +12,7 @@ client_logo: "/images/clients/mhz-foundation-logo.png"
 keywords: 
  - Project management
  - Requirements definition
- - Quality Assurance
+ - Quality assurance
  - Metadata mapping
  - Open data
  - OpenGLAM

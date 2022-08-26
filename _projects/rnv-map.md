@@ -15,7 +15,6 @@ keywords:
  - Migration de données
 lang: Français
 ref: rnv-map
-secret: true
 ---
 
 [Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [139 bibliothèques](https://map.renouvaud.ch/) 
@@ -24,6 +23,6 @@ Avant son lancement en 2016, les bibliothèques vaudoises faisaient partie du r�
 occidentale ([RERO](https://www.rero.ch)).
 
 Ce projet a consisté en la migration automatique des autorités de classification de certaines collections du site
-Riponne de la Bibliothèque Cantonale et Universitaire (BCU) qui n'avaient pas été traitées lors du passage de RERO à
-Renouvaud. Sur la base d'un mapping fourni par la BCU, mon travail a consisté à écrire une série de scripts de conversion
+Riponne de la Bibliothèque Cantonale et Universitaire de Lausanne (BCUL) qui n'avaient pas été traitées lors du passage de RERO à
+Renouvaud. Sur la base d'un mapping fourni par la BCUL, mon travail a consisté à écrire une série de scripts de conversion
 (utilisant le language Python) pour appliquer les corrections nécessaires aux 50,000 notices concernées.

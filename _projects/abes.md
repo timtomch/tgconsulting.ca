@@ -25,4 +25,4 @@ pour son évolution. J'ai collaboré avec arbim IT dans le cadre de cette étude
 
 ### Collaboration
 
-Ce travail a été réalisé en collaboration avec [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/) (Suisse).
+Ce travail a été réalisé en collaboration avec [arbim IT](https://arbim.ch/projets/evolution-de-sudoc-fr/).
