@@ -22,7 +22,7 @@ This project aimed to make a collection of 100 Canadian-authored, Atlantic Canad
 with accessibility features more visible, discoverable and available to public library users in Nova Scotia and New Brunswick.
 The pilot collection included titles from all APMA member publishers and were selected among content produced according to the 
 National Network for Equitable Library Service's 
-[best pracices for publishers](https://www.accessiblepublishing.ca/resources-for-publishers/).
+[best practices for publishers](https://www.accessiblepublishing.ca/resources-for-publishers/).
 
 Another requirement of the project was to use library ebook platforms (Overdrive and pretnumerique.ca) already in use by the
 participating libraries and established distribution channels to increase visibility and reduce overhead both for participating
