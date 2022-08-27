@@ -4,6 +4,7 @@ layout: page
 description: Impressum
 bodyClass: page
 lang: English
+lang-iso: en
 ref: impressum
 ---
 

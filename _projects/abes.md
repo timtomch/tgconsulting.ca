@@ -15,6 +15,7 @@ keywords:
  - Portail découverte
  - Catalogue collectif
 lang: Français
+lang-iso: fr
 ref: abes
 ---
 

@@ -15,6 +15,7 @@ keywords:
  - Analyse de données
  - Évaluation de l'accessibilité
 lang: Français
+lang-iso: fr
 ref: apma
 ---
 

@@ -18,6 +18,7 @@ keywords:
  - Soutien à l'implementation
  - Soutien à l'intégration de systèmes
 lang: Français
+lang-iso: fr
 ref: p1p
 ---
 

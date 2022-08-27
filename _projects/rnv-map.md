@@ -14,6 +14,7 @@ keywords:
  - Classification matières
  - Migration de données
 lang: Français
+lang-iso: fr
 ref: rnv-map
 ---
 

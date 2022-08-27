@@ -18,6 +18,7 @@ keywords:
  - OpenGLAM
  - APIs
 lang: English
+lang-iso: en
 ref: curationist
 secret: true
 ---

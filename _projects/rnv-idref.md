@@ -16,6 +16,7 @@ keywords:
  - Contrôle qualité
  - Documentation
 lang: Français
+lang-iso: fr
 ref: rnv-idref
 ---
 

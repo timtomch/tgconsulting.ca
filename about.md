@@ -7,6 +7,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 bodyClass: page-about
 lang: English
+lang-iso: en
 ref: about
 ---
 

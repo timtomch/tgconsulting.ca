@@ -3,6 +3,7 @@ title: Contact
 layout: contact
 description: Contact
 lang: Français
+lang-iso: fr
 ref: contact
 ---
 
