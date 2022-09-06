@@ -20,7 +20,6 @@ keywords:
 lang: English
 lang-iso: en
 ref: curationist
-secret: true
 ---
 
 ## About the Curationist Project
