@@ -1,0 +1,26 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+      {% unless page.secret == true %}    
+      <url>
+          <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+            <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.3</priority>
+      </url>
+      {% endunless %}
+  {% endfor %}
+  {% for project in site.projects %}
+      {% unless project.secret == true %}    
+      <url>
+          <loc>{{ site.url }}{{ project.url }}</loc>
+            <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.3</priority>
+      </url>
+      {% endunless %}
+  {% endfor %}
+</urlset>
