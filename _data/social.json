@@ -11,6 +11,12 @@
   }
   ,
     {
+      "name": "Mastodon",
+      "link": "https://code4lib.social/@timtom",
+      "image": "images/social/mastodon.svg"
+    }
+  ,
+    {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/in/thomasguignard/",
       "image": "images/social/linkedin.svg"
