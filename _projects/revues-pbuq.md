@@ -12,7 +12,8 @@ client_logo: "/images/clients/bci-logo.png"
 keywords: 
  - Analyse d'affaire
  - Analyse de marché
- - Conception de service
+ - Conception de services
+ - Édition en libre-accès
  - Open Journal Systems (OJS)
 lang: Français
 lang-iso: fr

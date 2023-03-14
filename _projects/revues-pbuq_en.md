@@ -14,6 +14,7 @@ keywords:
  - Business case
  - Market analysis
  - Service design
+ - Open Access publishing
  - Open Journal Systems (OJS)
 lang: English
 lang-iso: en
