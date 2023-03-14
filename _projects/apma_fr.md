@@ -3,8 +3,8 @@ title: "Projet pilote de livres numériques accessibles"
 date: 2022-05-29
 weight: 2
 descr: Gestion de projet pour une collection de livres numériques accessibles dans les provinces atlantiques.
-project_image: ""
-project_image_caption: ""
+project_image: "/images/illustrations/halifax-library-bytguignard.jpg"
+project_image_caption: "Bibliothèque publique de Halifax, Nouvelle-Écosse"
 year: 2020 - 2022
 client: Atlantic Publishers Marketing Association APMA
 client_url: "https://atlanticpublishers.ca/"
@@ -34,9 +34,9 @@ de la collection étaient offert en accès simulatné illimité.
 
 Ce projet a nécessité une étroite collaboration entre les intervenants suivants:
 
-* Atlantic Publishers Marketing Association APMA, representing [36 independent publishers](https://atlanticpublishers.ca/membership/)
+* Atlantic Publishers Marketing Association APMA, représentant [36 éditeurs indépendants](https://atlanticpublishers.ca/membership/)
 * Bibliothèques du Nouveau-Brunswick
-* Bibliothèques de Nouvelle-Écosse
+* Bibliothèques de Halifax et de Nouvelle-Écosse
 * Overdrive
 * Bibliopresto/pretnumerique.ca
 * DeMarque
