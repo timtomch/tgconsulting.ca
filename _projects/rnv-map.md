@@ -13,6 +13,7 @@ keywords:
  - Registre d'autorité
  - Classification matières
  - Migration de données
+ - Programmation Python
 lang: Français
 lang-iso: fr
 ref: rnv-map

@@ -5,7 +5,7 @@ weight: 1
 descr: Gestion de projet technique et support aux métadonnées pour une plate-forme collaborative de découverte d'oeuvres d'art ouvertes. 
 project_image: "/images/illustrations/heidenheim-library-bytguignard.jpg"
 project_image_caption: "Collection d'oeuvres à emprunter à la Stadtbibliothek Heidenheim, Allemagne"
-year: Since 2020
+year: Depuis 2020
 client: Fondation MHz
 client_url: "https://www.mhzfoundation.org/"
 client_logo: "/images/clients/mhz-foundation-logo.png"

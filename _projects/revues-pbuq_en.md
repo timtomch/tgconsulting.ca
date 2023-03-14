@@ -1,7 +1,7 @@
 ---
 title: "Analysis of journal support services in Quebec"
 date: 2023-03-13
-weight: 2
+weight: 1
 descr: Business analysis for the development of support services for independant scholarly journals by Quebec university libraries.
 project_image: "/images/illustrations/concordia-library-bytguignard.jpg"
 project_image_caption: "Webster Library, Concordia University in Montreal"
@@ -19,7 +19,6 @@ keywords:
 lang: English
 lang-iso: en
 ref: revues-pbuq
-secret : true
 ---
 
 The publication of research results in peer-reviewed journals is an established way of spreading scholarly output.
