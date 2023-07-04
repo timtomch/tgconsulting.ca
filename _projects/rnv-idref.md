@@ -5,7 +5,7 @@ weight: 2
 descr: Soutien technique au projet de transition du registre d'autorités du réseau vaudois Renouvaud vers le référentiel IdRef.
 project_image: "/images/illustrations/lausanne-unitheque-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire, Dorigny, Lausanne"
-year: 2021 - 2022
+year: Depuis 2021
 client: Coordination Renouvaud
 client_url: "https://www.bcu-lausanne.ch/mandats/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
