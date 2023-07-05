@@ -18,7 +18,6 @@ keywords:
 lang: Français
 lang-iso: fr
 ref: unige-primo
-secret: true
 ---
 
 La [bibliothèque de l'Université de Genève](https://www.unige.ch/biblio/fr) fait partie du réseau national de bibliothèques SLSP,

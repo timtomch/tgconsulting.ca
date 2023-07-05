@@ -17,8 +17,7 @@ keywords:
  - Documentation
 lang: English
 lang-iso: en
-ref: rnv-idref
-secret: true
+ref: unige-primo
 ---
 
 The [University of Geneva library](https://www.unige.ch/biblio/en) is a member of the Swiss national library network SLSP

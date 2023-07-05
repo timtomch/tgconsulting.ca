@@ -1,7 +1,7 @@
 ---
 title: "Conversion d'autorités pour les collections africaines de Bâle"
 date: 2022-07-29
-weight: 1
+weight: 2
 descr: Migration semi-automatique de notices d'autorité provenant de collections disparates vers le registre allemand GND.
 project_image: "/images/illustrations/unibasel-library-bytguignard.jpg"
 project_image_caption: "Bibliothèque de l'Université de Bâle"
@@ -11,15 +11,13 @@ client_url: "https://ub.unibas.ch/"
 client_logo: "/images/clients/unibas-logo.png"
 keywords: 
  - Registre d'autorité
- - Classification matières
  - Migration de données
  - Réconciliation
  - OpenRefine
  - Catalogue collectif
 lang: Français
 lang-iso: fr
-ref: abes
-secret: true
+ref: parc
 ---
 
 Entre le [Museum der Kulturen](https://www.museums.ch/org/fr/Museum-der-Kulturen), la [Mission 21](https://www.mission-21.org/fr/), 
@@ -29,11 +27,11 @@ la ville de Bâle abrite une rare concentration d'institutions en lien avec le c
 
 Cependant, il n'existe actuellement pas de point d'accès unique aux collections de ces diverses institutions, qui disposent chacune de leur propre catalogue,
 parfois inaccessible au public. Mené par la Bibliothèque de l'Université de Bâle et l'agence [arbim IT](https://arbim.ch/projets/basler-afrika-portal/),
-le projet _Basler Afrika-Portal_ vise à réunir ces riches collections dans un portail de recherche commun et ouvert à tous.
+le projet _Platform for African Research Collections (PARC)_ vise à réunir ces riches collections dans un portail de recherche commun et ouvert à tous.
 
 Afin d'offrir une recherche par facettes unifiées dans ce portail, il a été nécessaire d'aligner 
 les mots-clés propres à chacune des institutions vers un référentiel commun.
-Mon travail à consisté à aligner ces mots-clés vers le vocabulaire allemand GND en utilisant une combinaison d'outils
+Mon travail a consisté à aligner ces mots-clés vers le vocabulaire allemand GND en utilisant une combinaison d'outils
 automatiques (réconciliation dans le logiciel [OpenRefine](https://openrefine.org/)) et manuels.
 
 ### Collaboration
