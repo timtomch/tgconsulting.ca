@@ -1,26 +1,6 @@
 [
   {
     "lang": "English",
-    "title": "Project Management",
-    "description": "I blend robust methods and empathy to help teams accomplish great things.",
-    "image": {
-      "url": "images/features/noun-end-goal-1885956.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "lang": "Français",
-    "title": "Gestion de projet",
-    "description": "J'allie méthodes éprouvées et empathie pour mener votre équipe de projet au succès.",
-    "image": {
-      "url": "images/features/noun-end-goal-1885956.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "lang": "English",
     "title": "Data migration & cleanup",
     "description": "Migrating to a new system? I use powerful tools to painlessly bring over your metadata.",
     "image": {
@@ -41,8 +21,8 @@
   },
   {
     "lang": "English",
-    "title": "Systems Integration",
-    "description": "Did you say API? Like humans, systems work best when they work together. I help them speak the same language.",
+    "title": "Custom development & system integration",
+    "description": "Systems should adapt to your needs and not the other way around. I can help make it happen.",
     "image": {
       "url": "images/features/noun-cloud-computing-1885811.svg",
       "width": 80,
@@ -51,8 +31,8 @@
   },
   {
     "lang": "Français",
-    "title": "Intégration de systèmes",
-    "description": "Vous avez dit API? Comme les humains, les systèmes fonctionnent mieux quand ils communiquent bien. Je les aide à parler la même langue.",
+    "title": "Développements personalisés et intégration de systèmes",
+    "description": "La technologie doit s'adapter à vos besoins et non l'inverse. Je peux vous aider à y arriver.",
     "image": {
       "url": "images/features/noun-cloud-computing-1885811.svg",
       "width": 80,
@@ -95,6 +75,26 @@
     "description": "Donnez à votre équipe les outils pour automatiser leurs tâches répétitives et gagner du temps. J'offre des formations personnalisées en manipulation et gestion des données et introduction à la programmation.",
     "image": {
       "url": "images/features/noun-training-1849869.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "English",
+    "title": "Project Management",
+    "description": "I blend robust methods and empathy to help teams accomplish great things.",
+    "image": {
+      "url": "images/features/noun-end-goal-1885956.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "lang": "Français",
+    "title": "Gestion de projet",
+    "description": "J'allie méthodes éprouvées et empathie pour mener votre équipe de projet au succès.",
+    "image": {
+      "url": "images/features/noun-end-goal-1885956.svg",
       "width": 80,
       "height": 80
     }
