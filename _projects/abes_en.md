@@ -1,7 +1,7 @@
 ---
 title: "Evolution of the Sudoc portal"
 date: 2022-07-29
-weight: 1
+weight: 3
 descr: Participation in a market analysis to identify pertinent technical solutions for the French higher education union catalogue discovery interface.
 project_image: "/images/illustrations/bsb-learningcenter-bytguignard.jpg"
 project_image_caption: "BSB Learning Center in Dijon, France"

@@ -1,7 +1,7 @@
 ---
 title: "Conversion d’autorités de classification RERO vers Renouvaud"
 date: 2022-08-25
-weight: 2
+weight: 3
 descr: Transformation de notices d’autorité de classification pour l'enrichissement du catalogue Renouvaud.
 project_image: "/images/illustrations/lausanne-riponne-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire Riponne, Palais de Rumine, Lausanne"

@@ -1,7 +1,7 @@
 ---
 title: "Classification authorities conversion for Renouvaud"
 date: 2022-08-25
-weight: 2
+weight: 3
 descr: Post-migration automated conversion of classification authority records for a library in Western Switzerland.
 project_image: "/images/illustrations/lausanne-riponne-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire Riponne, Palais de Rumine, Lausanne"

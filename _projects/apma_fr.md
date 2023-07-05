@@ -1,7 +1,7 @@
 ---
 title: "Projet pilote de livres numériques accessibles"
 date: 2022-05-29
-weight: 2
+weight: 3
 descr: Gestion de projet pour une collection de livres numériques accessibles dans les provinces atlantiques.
 project_image: "/images/illustrations/halifax-library-bytguignard.jpg"
 project_image_caption: "Bibliothèque publique de Halifax, Nouvelle-Écosse"

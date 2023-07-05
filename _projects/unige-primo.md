@@ -1,7 +1,7 @@
 ---
 title: "Personnalisations du catalogue Primo de l'Université de Genève"
 date: 2023-07-04
-weight: 2
+weight: 1
 descr: Développement de modules JavaScript/Angular personnalisés pour modifier l'affichage du catalogue public Alma/Primo de l'UNIGE.
 project_image: "/images/illustrations/ge-conservatory-library-bytguignard.jpg"
 project_image_caption: "Bibliothèque des Conservatoire et jardin botaniques de la Ville de Genève"

@@ -1,7 +1,7 @@
 ---
 title: "Accessible Digital Books Pilot Project"
 date: 2022-05-29
-weight: 2
+weight: 3
 descr: Project management for a pilot collection of born-accessible ebooks in Atlantic Canada.
 project_image: "/images/illustrations/halifax-library-bytguignard.jpg"
 project_image_caption: "Central Library, Halifax Public Library, Nova Scotia"

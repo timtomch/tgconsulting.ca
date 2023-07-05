@@ -1,7 +1,7 @@
 ---
 title: "Primo custom developments for the University of Geneva"
 date: 2023-07-04
-weight: 2
+weight: 1
 descr: Development of custom Alma/Primo modules for the University of Geneva library catalogue.
 project_image: "/images/illustrations/ge-conservatory-library-bytguignard.jpg"
 project_image_caption: "Library of the City of Geneva Conservatory and Botanical Gardens"
