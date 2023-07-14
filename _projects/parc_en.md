@@ -27,7 +27,7 @@ the city of Basel is host to a rare concentration of research collections linked
 
 However there currently exists no single access point to the collections of these organisations, who each maintain their own catalogue and not all of which
 are publicly available. Led by the University of Basel library and [arbim IT](https://arbim.ch/projets/basler-afrika-portal/),
-the _Platform for African Research Collections (PARC)_ project aims to unite these rich collections within a common research portal open to all.
+the _Portal for African Research Collection (PARC)_ project aims to unite these rich collections within a common research portal open to all.
 
 To provide unified facet searching within PARC, it was necessary to align keywords from all participating institutions to a common vocabulary.
 My work consisted in mapping these keywords to the German GND authorities registry by using a combination of automated (e.g. reconciling with
