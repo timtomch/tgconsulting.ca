@@ -27,7 +27,7 @@ la ville de Bâle abrite une rare concentration d'institutions en lien avec le c
 
 Cependant, il n'existe actuellement pas de point d'accès unique aux collections de ces diverses institutions, qui disposent chacune de leur propre catalogue,
 parfois inaccessible au public. Mené par la Bibliothèque de l'Université de Bâle et l'agence [arbim IT](https://arbim.ch/projets/basler-afrika-portal/),
-le projet _Portal for African Research Collection (PARC)_ vise à réunir ces riches collections dans un portail de recherche commun et ouvert à tous.
+le projet [_Portal for African Research Collection (PARC)_](https://parc-portal.org) vise à réunir ces riches collections dans un portail de recherche commun et ouvert à tous.
 
 Afin d'offrir une recherche par facettes unifiées dans ce portail, il a été nécessaire d'aligner 
 les mots-clés propres à chacune des institutions vers un référentiel commun.
