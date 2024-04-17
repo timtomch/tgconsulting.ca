@@ -26,9 +26,11 @@ secret: true
 at the University of Toronto and its federated colleges. Archival fonds are described using the EAD metadata standard and managed
 on an [Access to Memory (AtoM)](https://www.accesstomemory.org/en/) instance hosted by the UofT Libraries Information Technology Services.
 
-AtoM provides a mechanism to automatically generate PDF finding aids from EAD descriptions, using XSL Transforms. However, the resulting
-PDFs often fail to meet certain accessibility requirements such as metadata for screen readers, bookmarks and a document structure that enables
-navigation. My work consisted in fixing such issues by editing the XSL Transforms. Other formatting issues were also adressed to meet UofT's
+AtoM provides a mechanism to automatically generate PDF finding aids from EAD descriptions, using XSL Transforms via XML-FO (Formatting Objects). 
+However, the resulting PDFs often fail to meet certain accessibility requirements such as metadata for screen readers, 
+bookmarks and a document structure that enables navigation. 
+
+My work consisted in fixing such issues by editing the XSL Transforms. Other formatting issues were also adressed to meet UofT's
 local display requirements, including the following improvements
 
 - Add document structure tags (headings, table headers, etc.) to PDF bookmarks for navigation
