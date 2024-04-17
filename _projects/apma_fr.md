@@ -13,7 +13,7 @@ keywords:
  - Gestion de projet
  - Liaison avec les parties prenantes
  - Analyse de données
- - Évaluation de l'accessibilité
+ - Accessibilité universelle
 lang: Français
 lang-iso: fr
 ref: apma

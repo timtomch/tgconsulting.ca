@@ -13,7 +13,7 @@ ref: about
 
 ### Library technology & open data consultant
 
-I am an independent consultant specializing in managing technology projects for libraries and cultural actors.
+I am an independent consultant specializing in technology projects for libraries and cultural actors.
 
 With 15+ years of experience working with academic and public libraries, library consortia, publishers, artists, makers and open knowledge projects, my focus is on supporting the teams that bring projects to life.
 
