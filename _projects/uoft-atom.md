@@ -43,3 +43,5 @@ local display requirements, including the following improvements:
 
 The resulting accessibility improvements are currently being tested by UofT staff and will be submitted for inclusion in the AtoM code base, so as
 to benefit the broader user community.
+
+This work was funded by the 2023 University of Toronto Libraries Chief Librarian Innovation Grant titled [“Committed to Web Accessible Archival Description Discovery”](https://docs.google.com/presentation/d/1nY5ZGEWSZR_9V4LBIQBki-gbLPsEhtLsF0f4zh4e858/edit#slide=id.p1).
