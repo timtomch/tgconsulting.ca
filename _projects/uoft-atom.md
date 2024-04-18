@@ -19,7 +19,6 @@ keywords:
 lang: English
 lang-iso: en
 ref: uoft-atom
-secret: true
 ---
 
 [Discover Archives](https://discoverarchives.library.utoronto.ca/index.php/) is a shared portal for exploring archival holdings
@@ -30,8 +29,8 @@ AtoM provides a mechanism to automatically generate PDF finding aids from EAD de
 However, the resulting PDFs often fail to meet certain accessibility requirements such as metadata for screen readers, 
 bookmarks and a document structure that enables navigation. 
 
-My work consisted in fixing such issues by editing the XSL Transforms. Other formatting issues were also adressed to meet UofT's
-local display requirements, including the following improvements
+My work consisted in fixing such issues by editing the XSL Transforms. Other formatting issues were also addressed to meet UofT's
+local display requirements, including the following improvements:
 
 - Add document structure tags (headings, table headers, etc.) to PDF bookmarks for navigation
 - Specify document language in PDF metadata (useful for screen readers)
@@ -40,7 +39,7 @@ local display requirements, including the following improvements
 - Address formatting issues such as text overflow for long inventory numbers, repetitive labels, line and page breaks, etc. 
 - Implement limited Markdown support in description fields
 - Custom fonts and other visual tweaks
-- Identify strategies for inserting a different logo for each college
+- Identify strategies for inserting a different logo for each archives repository
 
 The resulting accessibility improvements are currently being tested by UofT staff and will be submitted for inclusion in the AtoM code base, so as
 to benefit the broader user community.

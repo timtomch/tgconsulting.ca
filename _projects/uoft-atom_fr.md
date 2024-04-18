@@ -19,7 +19,6 @@ keywords:
 lang: Français
 lang-iso: fr
 ref: uoft-atom
-secret: true
 ---
 
 Les fonds d'archives de l'Université de Toronto et de ses collèges affiliés sont présentés sur le portail
@@ -31,16 +30,16 @@ utilise les transformations XSL (XSLT) pour convertir les métadonnées EAD vers
 Cependant, les fichiers qui en résultent ne répondent souvent pas aux standards d'accessibilité universelle en raison de métadonnées manquantes.
 
 Mon travail a consisté à modifier les transformations XSL pour améliorer l'accessibilité universelle des descriptifs de fonds, ainsi que
-d'apporter d'autres améliorations visuelles telles que demandées par le client, notamment
+d'apporter d'autres améliorations visuelles, notamment
 
 - Ajout de balises permettant la navigation de la structure du document (en-têtes, tables, etc.)
 - Ajout de métadonnées permettant l'utilisation de technologies d'accessibilité universelle (lecture d'écran)
 - Identification des éléments décoratifs (logos) pour améliorer la navigation
 - Ajout d'hyperliens dans les descriptions
-- Résolution de problèmes de formattage comme débordement de texte, étiquettes répétitives, sauts de page, etc.
+- Résolution de problèmes de formatage comme débordement de texte, étiquettes répétitives, sauts de page, etc.
 - Reconnaissance limitée de la syntaxe Markdown dans les champs de description
 - Changement de la police par défaut et autres améliorations visuelles
-- Mise en place d'une stratégie permettant d'insérer un logo différent pour chaque collège
+- Mise en place d'une stratégie permettant d'insérer un logo différent pour chaque fonds d'archive
 
-Les améliorations à l'accessibilité universelle qui découlent de ce projet sont actuellement en cours de test par le client. Ils seront
+Les améliorations à l'accessibilité universelle qui découlent de ce projet sont en cours de test par le client. Ils seront
 ensuite proposés pour intégration au code AtoM afin de bénéficier à l'ensemble de la communauté.
