@@ -7,7 +7,7 @@ lang-iso: fr
 ref: contact
 ---
 
-## Disponible pour de nouveaux mandats dès début 2024
+## Disponible pour de nouveaux mandats dès l'été/automne 2024
 
 [Écrivez-moi](mailto:hello@tgconsulting.ca) ou [prenez rendez-vous pour un appel](https://doodle.com/bp/thomasguignard/book-me).
 Je me réjouis d'en savoir plus sur votre prochain projet.
