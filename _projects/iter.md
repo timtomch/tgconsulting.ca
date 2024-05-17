@@ -20,6 +20,8 @@ secret: true
 
 The [Iter Bibliography](https://www.itergateway.org/resources/iter-bibliography) is a curated database
 of secondary source material pertaining to the Middle Ages and Renaissance with over 1.5 milion entries.
+
 In this project, I advised the Iter team on the migration of the bibliography from end-of-life software to a sustainable, hosted solution.
-I compared available solutions able to provide the required features, requested proposals from vendors and hosting providers, analyzed costs and benefits and
+
+I compared available solutions able to provide required features, requested proposals from vendors and hosting providers, analyzed costs and benefits and
 prepared a recommendation to the client.
