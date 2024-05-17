@@ -1,5 +1,5 @@
 ---
-title: "Iter bibliography migration support"
+title: "Iter Bibliography migration support"
 date: 2024-05-17
 weight: 3
 descr: Technical needs analysis and options comparison for the migration of a scholarly bibliography service.
