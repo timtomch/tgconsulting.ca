@@ -18,7 +18,7 @@ acteurs culturels.
 
 Avec plus de 15 ans d'expérience au service de bibliothèques universitaires et publiques, consortiums de bibliothèques,
 éditeurs, artistes, créateurs et projets de données ouvertes, le soutien des équipes qui mènent à bien leurs projets est au
-coeur de mes préoccupations.
+cœur de mes préoccupations.
 
 Mes services sont offerts en français, anglais et allemand.
 
@@ -37,15 +37,15 @@ Vous changez de système? J'utilise des outils performants pour migrer vos méta
 * Normalisation, réconciliation et nettoyage de métadonnées
 * Préparation ou récupération de données ouvertes
 
-### Développements personalisés et intégration de systèmes
+### Développements personnalisés et intégration de systèmes
 
 La technologie doit s'adapter à vos besoins et non l'inverse. Je peux vous aider à y arriver.
 
 * Personnalisation du moteur de recherche Alma/Primo
-* Développements web personalisés et résolution de problèmes
+* Développements web personnalisés et résolution de problèmes
 * Automatisation de tâches
 
-### Analyse de besoins et plans d'affaire
+### Analyse de besoins et plans d'affaires
 
 Restez à la page et laissez-moi vous aider à identifier les opportunités d'améliorer vos services et répondre aux besoins de vos usagers.
 
@@ -69,7 +69,7 @@ Donnez à votre équipe les outils pour automatiser leurs tâches répétitives 
 J'allie méthodes éprouvées et empathie pour mener votre équipe de projet au succès.
 
 * Gestion technique de projet
-* Gestion d'appels d'offre pour acquisition de logiciels
+* Gestion d'appels d'offres pour acquisition de logiciels
 
 ### Photographie de bibliothèques
 
