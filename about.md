@@ -34,7 +34,6 @@ Migrating to a new system? I use powerful tools to painlessly bring over your me
 * Migrating data to and from different systems
 * Metadata normalization, reconciliation and cleanup
 * Open data preparation or harvesting
-* ...
 
 ### Custom development & system integration
 
@@ -42,8 +41,7 @@ Systems should adapt to your needs and not the other way around. I can help make
 
 * Alma/Primo customization
 * Custom web development and troubleshooting
-* API integration
-* ...
+* Task automation
 
 ### Business needs analysis
 
@@ -54,7 +52,6 @@ Stay relevant and let me identify opportunities to grow your services and meet y
 * Service design
 * Cost-benefit analysis
 * Scenario planning
-* ...
 
 ### Technology training
 
@@ -64,7 +61,6 @@ I offer bespoke training sessions on, e.g.
 * [OpenRefine](https://openrefine.org/) and other data manipulation and cleaning tools
 * Data management best practices
 * Introduction to computer programming (e.g. Python)
-* ...
 
 ### Project management
 
@@ -72,8 +68,6 @@ I blend robust methods and empathy to help teams accomplish great things.
 
 * Technical project management
 * Competitive software procurement, RFP management
-* Consensus building
-* ...
 
 ### Library photography
 
