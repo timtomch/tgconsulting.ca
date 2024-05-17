@@ -5,7 +5,7 @@ weight: 1
 descr: Development of custom Alma/Primo modules for the University of Geneva library catalogue.
 project_image: "/images/illustrations/unige-unimail-bytguignard.jpg"
 project_image_caption: "University of Geneva Uni Mail Library"
-year: 2023
+year: Since 2023
 client: Université de Genève
 client_url: "https://www.unige.ch/biblio/"
 client_logo: "/images/clients/unige.png"

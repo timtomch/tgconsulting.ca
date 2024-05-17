@@ -5,7 +5,7 @@ weight: 1
 descr: Développement de modules JavaScript/Angular personnalisés pour modifier l'affichage du catalogue public Alma/Primo de l'UNIGE.
 project_image: "/images/illustrations/unige-unimail-bytguignard.jpg"
 project_image_caption: "Bibliothèque Uni Mail, Université de Genève"
-year: 2023
+year: Depuis 2023
 client: Université de Genève
 client_url: "https://www.unige.ch/biblio/"
 client_logo: "/images/clients/unige.png"
