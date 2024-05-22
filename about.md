@@ -24,7 +24,7 @@ Services available in English, French and German.
 
 ## Services offered
 
-Every project is different, but here are some examples of the services that I provide to my [clients](projects).
+Every project is different, but here are some examples of the services that I provide to my [clients](../projects).
 
 ### Data migration and cleanup
 

@@ -26,7 +26,7 @@ Mes services sont offerts en français, anglais et allemand.
 
 ## Services offerts
 
-Chaque projet est différent, mais voici quelques exemples de services offerts à mes [clients](projects).
+Chaque projet est différent, mais voici quelques exemples de services offerts à mes [clients](../projects).
 
 ### Migration et nettoyage de données
 
