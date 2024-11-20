@@ -4,12 +4,6 @@
     "link": "https://github.com/timtomch",
     "image": "images/social/github.svg"
   },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/timtomch",
-    "image": "images/social/twitter.svg"
-  }
-  ,
     {
       "name": "Mastodon",
       "link": "https://code4lib.social/@timtom",
