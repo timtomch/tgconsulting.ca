@@ -34,3 +34,5 @@ Mon rôle a consisté à programmer et tester plusieurs de ces développements l
 
 Ces personnalisations ont été réalisées dans un [environment de développement local](https://github.com/ExLibrisGroup/primo-explore-devenv),
 avant d'être testées dans une instance sandbox d'Alma/Primo puis déployées en production.
+
+Tous les modules personnalisés développés dans le cadre de ce projet sont [librement disponibles sur GitHub](https://github.com/dis-unige/swisscovery-vu3).

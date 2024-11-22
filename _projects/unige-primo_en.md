@@ -34,3 +34,5 @@ My role was in developing and testing several such local changes, including
 
 These were programmed using [a local development environment](https://github.com/ExLibrisGroup/primo-explore-devenv),
 before being tested in a sandbox and deployed to production.
+
+All custom developments are [freely available on GitHub](https://github.com/dis-unige/swisscovery-vu3).

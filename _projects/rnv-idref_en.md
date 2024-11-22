@@ -21,7 +21,7 @@ ref: rnv-idref
 ---
 
 [The Renouvaud network](https://www.bcu-lausanne.ch/mandats/) includes 
-[139 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. 
+[over 150 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. 
 In 2019, it made the decision to replace its local authorities file with [IdRef](https://www.idref.fr/).
 Initially the reference authority service for academic and research libraries in France, IdRef is now
 used by libraries in Western Switzerland and Belgium as well. By joining IdRef, the Vaud libraries

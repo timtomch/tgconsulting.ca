@@ -19,7 +19,7 @@ lang-iso: fr
 ref: rnv-map
 ---
 
-[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [139 bibliothèques](https://map.renouvaud.ch/) 
+[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
 universitaires, patrimoniales, de lecture publique et scolaires dans le canton de Vaud, en Suisse. 
 Avant son lancement en 2016, les bibliothèques vaudoises faisaient partie du réseau des bibliothèques de Suisse
 occidentale ([RERO](https://www.rero.ch)).

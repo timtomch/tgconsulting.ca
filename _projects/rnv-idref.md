@@ -20,7 +20,7 @@ lang-iso: fr
 ref: rnv-idref
 ---
 
-[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [139 bibliothèques](https://map.renouvaud.ch/) 
+[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
 universitaires, patrimoniales, de lecture publique et scolaires dans le canton de Vaud, en Suisse. En 2019, la Coordination
 Renouvaud a pris la décision de remplacer son registre local d'autorités par le référentiel [IdRef](https://www.idref.fr/). 
 Au départ registre de référence pour les bibliothèques universitaires et de recherche en France, IdRef est désormais utilisé par

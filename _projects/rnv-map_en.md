@@ -20,7 +20,7 @@ ref: rnv-map
 ---
 
 [The Renouvaud network](https://www.bcu-lausanne.ch/mandats/) includes 
-[139 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. 
+[over 150 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. 
 Before it went live in 2016, its member libraries belonged to the Western Switzerland Library Network
 [RERO](https://www.rero.ch).
 
