@@ -3,7 +3,7 @@ title: "Babelio user reviews integration on Primo"
 date: 2024-11-22
 weight: 1
 descr: Development of a custom Primo module for integrating user reviews from the Bablio platform for a public library network.
-project_image: "/images/illustrations/orbe-bibliothèque-bytguignard.jpg"
+project_image: "/images/illustrations/orbe-bibliotheque-bytguignard.jpg"
 project_image_caption: "School and public library in Orbe, Switzerland"
 year: 2024
 client: Coordination Renouvaud
