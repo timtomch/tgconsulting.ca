@@ -7,7 +7,7 @@ project_image: "/images/illustrations/lausanne-riponne-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire Riponne, Palais de Rumine, Lausanne"
 year: 2020
 client: Coordination Renouvaud
-client_url: "https://www.bcu-lausanne.ch/mandats/"
+client_url: "https://www.bcu-lausanne.ch/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
 keywords: 
  - Registre d'autorité
@@ -19,7 +19,7 @@ lang-iso: fr
 ref: rnv-map
 ---
 
-[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
+[Le réseau Renouvaud](https://www.bcu-lausanne.ch/reseau-renouvaud/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
 universitaires, patrimoniales, de lecture publique et scolaires dans le canton de Vaud, en Suisse. 
 Avant son lancement en 2016, les bibliothèques vaudoises faisaient partie du réseau des bibliothèques de Suisse
 occidentale ([RERO](https://www.rero.ch)).

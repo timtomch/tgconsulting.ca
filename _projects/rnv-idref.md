@@ -7,7 +7,7 @@ project_image: "/images/illustrations/lausanne-unitheque-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire, Dorigny, Lausanne"
 year: Depuis 2021
 client: Coordination Renouvaud
-client_url: "https://www.bcu-lausanne.ch/mandats/"
+client_url: "https://www.bcu-lausanne.ch/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
 keywords: 
  - Registre d'autorité
@@ -20,7 +20,7 @@ lang-iso: fr
 ref: rnv-idref
 ---
 
-[Le réseau Renouvaud](https://www.bcu-lausanne.ch/mandats/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
+[Le réseau Renouvaud](https://www.bcu-lausanne.ch/reseau-renouvaud/) regroupe [plus de 150 bibliothèques](https://map.renouvaud.ch/) 
 universitaires, patrimoniales, de lecture publique et scolaires dans le canton de Vaud, en Suisse. En 2019, la Coordination
 Renouvaud a pris la décision de remplacer son registre local d'autorités par le référentiel [IdRef](https://www.idref.fr/). 
 Au départ registre de référence pour les bibliothèques universitaires et de recherche en France, IdRef est désormais utilisé par

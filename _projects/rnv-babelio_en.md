@@ -7,7 +7,7 @@ project_image: "/images/illustrations/orbe-bibliotheque-bytguignard.jpg"
 project_image_caption: "School and public library in Orbe, Switzerland"
 year: 2024
 client: Coordination Renouvaud
-client_url: "https://www.bcu-lausanne.ch/mandats/"
+client_url: "https://www.bcu-lausanne.ch/en/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
 keywords: 
  - Web Development
@@ -19,10 +19,9 @@ keywords:
 lang: English
 lang-iso: en
 ref: rnv-babelio
-secret: true
 ---
 
-[The Renouvaud network](https://www.bcu-lausanne.ch/mandats/) includes 
+[The Renouvaud network](https://www.bcu-lausanne.ch/en/reseau-renouvaud/) includes 
 [over 150 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. Their public catalogue
 runs on shared instances of the ExLibris Alma/Primo library services platform.
 

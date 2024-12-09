@@ -7,7 +7,7 @@ project_image: "/images/illustrations/lausanne-unitheque-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire, Dorigny, Lausanne"
 year: Since 2021
 client: Coordination Renouvaud
-client_url: "https://www.bcu-lausanne.ch/mandats/"
+client_url: "https://www.bcu-lausanne.ch/en/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
 keywords: 
  - Authorities file
@@ -20,7 +20,7 @@ lang-iso: en
 ref: rnv-idref
 ---
 
-[The Renouvaud network](https://www.bcu-lausanne.ch/mandats/) includes 
+[The Renouvaud network](https://www.bcu-lausanne.ch/en/reseau-renouvaud/) includes 
 [over 150 academic, research, school and public libraries](https://map.renouvaud.ch/) in Vaud, Switzerland. 
 In 2019, it made the decision to replace its local authorities file with [IdRef](https://www.idref.fr/).
 Initially the reference authority service for academic and research libraries in France, IdRef is now
