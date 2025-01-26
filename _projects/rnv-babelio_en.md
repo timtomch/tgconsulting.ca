@@ -2,7 +2,7 @@
 title: "Babelio user reviews integration on Primo"
 date: 2024-11-22
 weight: 1
-descr: Development of a custom Primo module for integrating user reviews from the Bablio platform for a public library network.
+descr: Development of a custom Primo module for integrating user reviews from the Babelio platform for a public library network.
 project_image: "/images/illustrations/orbe-bibliotheque-bytguignard.jpg"
 project_image_caption: "School and public library in Orbe, Switzerland"
 year: 2024
@@ -30,7 +30,7 @@ This data can be used to enrich library catalogues through the [Babelthèque](ht
 service.
 
 I developed a custom Primo module for integrating data from the Babelio API on the Renouvaud catalogue for public and school libraries.
-The resulting code is [freely available on GitHub](https://github.com/dis-unige/swisscovery-vu3).
+The resulting code is [freely available on GitHub](https://github.com/timtomch/rnv-babelio-primo).
 
 The module was developed using [a local development environment](https://github.com/ExLibrisGroup/primo-explore-devenv),
 before being tested in a sandbox and deployed to production.
