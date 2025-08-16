@@ -5,7 +5,7 @@ weight: 1
 descr: Development of a custom Primo module for integrating user reviews from the Babelio platform for a public library network.
 project_image: "/images/illustrations/orbe-bibliotheque-bytguignard.jpg"
 project_image_caption: "School and public library in Orbe, Switzerland"
-year: 2024
+year: 2024 - 2025
 client: Coordination Renouvaud
 client_url: "https://www.bcu-lausanne.ch/en/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"

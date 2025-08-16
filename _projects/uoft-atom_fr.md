@@ -41,7 +41,7 @@ d'apporter d'autres améliorations visuelles, notamment
 - Changement de la police par défaut et autres améliorations visuelles
 - Mise en place d'une stratégie permettant d'insérer un logo différent pour chaque fonds d'archive
 
-Les améliorations à l'accessibilité universelle qui découlent de ce projet sont en cours de test par le client. Ils seront
-ensuite proposés pour intégration au code AtoM afin de bénéficier à l'ensemble de la communauté.
+Les améliorations à l'accessibilité universelle qui découlent de ce projet sont opérationnelles depuis février 2025 et
+ont été intégrées au code AtoM afin de bénéficier à l'ensemble de la communauté.
 
 Ce projet a été financé par la bourse d'innovation 2023 du Bibiliothécaire en chef de l'Université de Toronto [“Committed to Web Accessible Archival Description Discovery”](https://docs.google.com/presentation/d/1nY5ZGEWSZR_9V4LBIQBki-gbLPsEhtLsF0f4zh4e858/edit#slide=id.p1).

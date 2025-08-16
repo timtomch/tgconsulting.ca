@@ -5,7 +5,7 @@ weight: 1
 descr: Développement d'un module Primo pour l'intégration des avis de lecture provenant de la plateforme Babelio sur le catalogue du réseau vaudois de bibliothèques.
 project_image: "/images/illustrations/orbe-bibliotheque-bytguignard.jpg"
 project_image_caption: "Bibliothèque publique et scolaire d'Orbe"
-year: 2024
+year: 2024 - 2025
 client: Coordination Renouvaud
 client_url: "https://www.bcu-lausanne.ch/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"

@@ -5,7 +5,7 @@ weight: 2
 descr: Technical support for a library network in Western Swizterland transitioning from local authorities to IdRef.
 project_image: "/images/illustrations/lausanne-unitheque-bytguignard.jpg"
 project_image_caption: "Bibliothèque Cantonale et Universitaire, Dorigny, Lausanne"
-year: Since 2021
+year: 2021 - 2024
 client: Coordination Renouvaud
 client_url: "https://www.bcu-lausanne.ch/en/reseau-renouvaud/"
 client_logo: "/images/clients/RenouVaud-logo-2016-web.png"
